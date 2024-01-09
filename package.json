@@ -6,7 +6,8 @@
   "bin": "lib/index.js",
   "scripts": {
     "compile": "tsc",
-    "biome": "npx @biomejs/biome check --apply src"
+    "biome": "npx @biomejs/biome check --apply src",
+    "biome:lint": "npx @biomejs/biome lint src"
   },
   "author": {
     "name": "Sosuke Suzuki",
