@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@sosukesuzuki/suppress-stylelint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Suppress stylelint warnings by directive comments",
   "bin": "lib/index.js",
   "scripts": {
